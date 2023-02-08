@@ -14,7 +14,7 @@ There is a web application called “Amazing E-Grocery”, which is the applicat
 1. Create a new folder
 2. Clone the project from this repository into the folder using CLI
 ```
-git clone https://github.com/Nouvaldi/GameOn
+git clone https://github.com/Nouvaldi/UASWebProg
 ```
 
 ## Setup
